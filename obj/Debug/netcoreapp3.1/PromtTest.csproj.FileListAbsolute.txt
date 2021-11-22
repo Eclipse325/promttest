@@ -1,0 +1,13 @@
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.exe
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.deps.json
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.runtimeconfig.json
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.runtimeconfig.dev.json
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.dll
+C:\Users\Misha\source\repos\PromtTest\bin\Debug\netcoreapp3.1\PromtTest.pdb
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.csprojAssemblyReference.cache
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.AssemblyInfoInputs.cache
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.AssemblyInfo.cs
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.dll
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.pdb
+C:\Users\Misha\source\repos\PromtTest\obj\Debug\netcoreapp3.1\PromtTest.genruntimeconfig.cache
